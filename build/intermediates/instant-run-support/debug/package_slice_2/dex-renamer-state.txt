@@ -1,0 +1,4 @@
+#Thu Sep 13 00:09:55 ICT 2018
+base.0=/Users/bentino/Future food/AndroidStudioProject_Export/Future food/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

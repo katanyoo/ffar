@@ -1,0 +1,4 @@
+#Thu Sep 13 02:49:53 ICT 2018
+base.0=/Users/katanyoo/Downloads/Future food 2/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
